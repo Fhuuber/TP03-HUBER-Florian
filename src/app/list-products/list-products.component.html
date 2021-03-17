@@ -1,0 +1,11 @@
+<app-filter (filter)="search($event)"></app-filter>
+<div class="card">
+    <div *ngFor="let x of productFilter">
+        <h1>{{x.name}} ({{x.price}}€)</h1>
+        <h3>{{x.detail}}</h3>
+    </div>
+</div>
+
+<div *ngIf="isEmpty">
+    <h4>Aucun résultat.</h4>
+</div>

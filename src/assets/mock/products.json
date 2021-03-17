@@ -1,0 +1,29 @@
+[{
+	"name": "Product 1",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "10"
+},{
+	"name": "Product 2",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "20"
+},{
+	"name": "Product 3",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "30"
+},{
+	"name": "Product 4",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "40"
+},{
+	"name": "Product 5",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "50"
+},{
+	"name": "Product 6",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "60"
+},{
+	"name": "Produit 7",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "70"
+}]
